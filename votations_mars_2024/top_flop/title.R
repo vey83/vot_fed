@@ -18,10 +18,10 @@ title_2_flop_fr_id <- "Les communes les plus opposées à l'initiative des Jeune
 #title_3_flop_fr_id <- 
 
 #IT
-title_1_top_it_id <- "title_1_top_it_id"
-title_2_top_it_id <- "title_2_top_it_id"
+title_1_top_it_id <- "I comuni più favorevoli all’iniziativa per una 13esima mensilità AVS"
+title_2_top_it_id <- "I comuni più favorevoli all’iniziativa per un aumento dell’età pensionabile"
 #title_3_top_it_id <-
 
-title_1_flop_it_id <- "title_1_flop_it_id"
-title_2_flop_it_id <- "title_2_flop_it_id" 
+title_1_flop_it_id <- "I comuni che si sono opposti maggiormente all’iniziativa per una 13esima mensilità AVS"
+title_2_flop_it_id <- "I comuni che si sono opposti maggiormente all’iniziativa per un aumento dell’età pensionabile" 
 #title_3_flop_it_id <- 
