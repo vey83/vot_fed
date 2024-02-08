@@ -1,11 +1,11 @@
 
 ##Title
-title_1_top_de_id <- "title_1_top_de_id"
-title_2_top_de_id <- "title_2_top_de_id"
+title_1_top_de_id <- "Die Gemeinden, die der Initiative für eine 13. AHV-Rente am deutlichsten zugestimmt haben"
+title_2_top_de_id <- "Die Gemeinden, die der Renteninitiative der Jungen FDP am deutlichsten zugestimmt haben"
 #title_3_top_de_id <- 
 
-title_1_flop_de_id <- "title_1_flop_de_id"
-title_2_flop_de_id <- "title_2_flop_de_id" 
+title_1_flop_de_id <- "Die Gemeinden, welche die Initiative für eine 13. AHV-Rente am deutlichsten abgelehnt haben"
+title_2_flop_de_id <- "Die Gemeinden, welche die Renteninitiative der Jungen FDP am deutlichsten abgelehnt haben" 
 #title_3_flop_de_id <- 
 
 #FR
